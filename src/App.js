@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './Header';
-import Home from './Home';
-import Journeys from './Journeys';
+import Header from './components/Header';
+import Home from './components/Home';
+import Journeys from './components/Journeys';
 import './App.css';
 
 function App() {
